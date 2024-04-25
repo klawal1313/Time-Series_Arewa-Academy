@@ -19,11 +19,11 @@ Notebooks
 
 
 
-Dataset
+Dataset:
 The dataset used in these notebooks consists of CO2 emission data, suitable for univariate time series forecasting experiments.
 
 
 
-Goal
+Goal:
 The primary goal of this repository is to provide educational resources for understanding time series forecasting techniques. By leveraging real-world CO2 emission data, students can gain practical insights into applying various forecasting models and methods.
 
