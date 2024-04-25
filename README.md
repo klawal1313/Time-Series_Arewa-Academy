@@ -16,10 +16,8 @@ Notebooks
 •	This notebook focuses on improving SVR model performance by tuning hyperparameters using GridSearchCV.
 5.	Linear Regression Model
 •	Explore univariate time series forecasting using a simple Linear Regression model.
-
 Dataset
 The dataset used in these notebooks consists of CO2 emission data, suitable for univariate time series forecasting experiments.
-
 Goal
 The primary goal of this repository is to provide educational resources for understanding time series forecasting techniques. By leveraging real-world CO2 emission data, students can gain practical insights into applying various forecasting models and methods.
 
